@@ -13,7 +13,7 @@ fg.src = "img/fg.png";
 pipeUp.src = "img/pipeUp.png";
 pipeBottom.src = "img/pipeBottom.png";
 
-// Звуковые файлы
+// Звук
 var fly = new Audio();
 var score_audio = new Audio();
 
